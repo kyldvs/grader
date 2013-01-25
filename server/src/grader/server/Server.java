@@ -30,6 +30,7 @@ public class Server implements Runnable {
 	@Override
 	public void run() {
 		log.info("Server Started");
+		System.out.println("Server Started");
 		
 		while(true) {
 			Socket conn;
