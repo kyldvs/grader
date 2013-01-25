@@ -10,3 +10,6 @@
 
 # Preference Files #
 *.prefs
+
+# binaries #
+bin/*
